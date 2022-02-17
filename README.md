@@ -1,2 +1,2 @@
-# - Beginning of a series of studies on IOS development.
+# - Beginning of a series of studies on IOS development
   ## - Projects done
