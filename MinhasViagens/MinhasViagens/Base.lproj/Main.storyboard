@@ -31,7 +31,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SEh-RS-Peb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2137.5" y="53.87323943661972"/>
+            <point key="canvasLocation" x="2278" y="54"/>
         </scene>
         <!--Minhas Viagens-->
         <scene sceneID="dLL-is-N23">
@@ -60,7 +60,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="wIo-YZ-MS3">
                             <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <segue destination="r2f-sQ-8Te" kind="show" id="J2n-H8-T0C"/>
+                                <segue destination="r2f-sQ-8Te" kind="show" identifier="verLocal" id="J2n-H8-T0C"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>

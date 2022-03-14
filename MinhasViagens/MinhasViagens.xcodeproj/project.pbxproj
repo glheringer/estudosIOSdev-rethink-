@@ -64,11 +64,11 @@
 				46125C1027D27C43007B6A89 /* SceneDelegate.swift */,
 				46125C1227D27C43007B6A89 /* ViewController.swift */,
 				46125C2227D2829B007B6A89 /* MapaViewController.swift */,
+				4617E82727D67FD000062D39 /* ArmazenamentoDados.swift */,
 				46125C1427D27C43007B6A89 /* Main.storyboard */,
 				46125C1727D27C44007B6A89 /* Assets.xcassets */,
 				46125C1927D27C44007B6A89 /* LaunchScreen.storyboard */,
 				46125C1C27D27C44007B6A89 /* Info.plist */,
-				4617E82727D67FD000062D39 /* ArmazenamentoDados.swift */,
 			);
 			path = MinhasViagens;
 			sourceTree = "<group>";
