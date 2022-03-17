@@ -16,13 +16,18 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" showsUserLocation="YES" translatesAutoresizingMaskIntoConstraints="NO" id="QOM-Kg-YMj">
-                                <rect key="frame" x="0.0" y="44" width="331" height="524"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" translatesAutoresizingMaskIntoConstraints="NO" id="QOM-Kg-YMj">
+                                <rect key="frame" x="0.0" y="44" width="320" height="524"/>
                             </mapView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="il0-Vf-bwf"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="QOM-Kg-YMj" firstAttribute="leading" secondItem="il0-Vf-bwf" secondAttribute="leading" id="CPC-w9-YhP"/>
+                            <constraint firstItem="QOM-Kg-YMj" firstAttribute="top" secondItem="il0-Vf-bwf" secondAttribute="top" id="k7x-pW-GAq"/>
+                            <constraint firstAttribute="trailing" secondItem="QOM-Kg-YMj" secondAttribute="trailing" id="kYw-NO-BIU"/>
+                            <constraint firstItem="QOM-Kg-YMj" firstAttribute="bottom" secondItem="il0-Vf-bwf" secondAttribute="bottom" id="q69-Qj-Aoc"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Mapa" id="9pa-te-QS9"/>
                     <connections>
@@ -31,7 +36,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SEh-RS-Peb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2278" y="54"/>
+            <point key="canvasLocation" x="2209" y="54"/>
         </scene>
         <!--Minhas Viagens-->
         <scene sceneID="dLL-is-N23">
@@ -67,7 +72,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iEY-n8-xZO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1494" y="54"/>
+            <point key="canvasLocation" x="1530" y="54"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="rDw-QR-he1">

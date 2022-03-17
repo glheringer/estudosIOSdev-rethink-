@@ -43,6 +43,7 @@ class ViewController: UITableViewController {
         }
     }
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        self.controleNavegacao = "listar"
         performSegue(withIdentifier: "verLocal", sender: indexPath.row)
         
     }

@@ -1,0 +1,16 @@
+PODS:
+  - Spring (1.0.5)
+
+DEPENDENCIES:
+  - Spring (= 1.0.5)
+
+SPEC REPOS:
+  trunk:
+    - Spring
+
+SPEC CHECKSUMS:
+  Spring: 17901566c8ecf3a1327902b940406c64512f9bb1
+
+PODFILE CHECKSUM: 3d149e872d1e94e8cac42f51f6002f9063d600b7
+
+COCOAPODS: 1.11.3
