@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>181346884483-9ph6n11un5r32pasbeaj5lo458lj7nsp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.181346884483-9ph6n11un5r32pasbeaj5lo458lj7nsp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBF2Kj9DYyoLQJ2a-Cvo7FGcPUrRuMno6A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181346884483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Rethink.ConfiguracaoFiberebase</string>
+	<key>PROJECT_ID</key>
+	<string>fir-configuracao-d9ff0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-configuracao-d9ff0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181346884483:ios:c8d1c4e15cbe885d0ff4b6</string>
+</dict>
+</plist>
